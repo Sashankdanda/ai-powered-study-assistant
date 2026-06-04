@@ -6,6 +6,9 @@ A production-deployed backend system that orchestrates a Large Language Model (L
 
 🚀 **Live Production Demo:** [Try the App Natively on Hugging Face Spaces](https://huggingface.co/spaces/sashankdanda00/StudyAssistant)
 
+<img width="1438" height="786" alt="Screenshot 2026-06-04 at 7 06 52 PM" src="https://github.com/user-attachments/assets/9feea825-909a-4e24-bc76-60fdf6847b2c" />
+
+
 ## 🛠️ Tech Stack & Architecture
 * **Language:** Python 3
 * **LLM Engine:** Google GenAI SDK (`gemini-2.5-flash`)
